@@ -1,6 +1,4 @@
-# Weather App React
-
-![Weather App Banner](https://via.placeholder.com/800x400?text=Weather+App+React)
+# WeatherNow
 
 A modern, responsive weather application built with React and Vite. Get real-time weather information for any city around the world with a clean and intuitive user interface.
 
