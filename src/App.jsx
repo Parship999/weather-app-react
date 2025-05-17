@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="weather-app">
-        <h1 className="app-title">Weather App</h1>
+        <h1 className="app-title">WeatherNow</h1>
         <SearchBar onSearch={handleSearch} />
 
         {loading && <LoadingSpinner />}

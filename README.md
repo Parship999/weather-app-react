@@ -1,6 +1,6 @@
-# Weather App React
+# WeatherNow
 
-![Weather App Banner](https://via.placeholder.com/800x400?text=Weather+App+React)
+![WeatherNow Banner](https://via.placeholder.com/800x400?text=WeatherNow)
 
 A modern, responsive weather application built with React and Vite. Get real-time weather information for any city around the world with a clean and intuitive user interface.
 
@@ -35,8 +35,8 @@ A modern, responsive weather application built with React and Vite. Get real-tim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app-react.git
-   cd weather-app-react
+   git clone https://github.com/yourusername/WeatherNow.git
+   cd WeatherNow
    ```
 
 2. Install dependencies:
@@ -70,7 +70,7 @@ This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch 
 ## 📁 Project Structure
 
 ```
-weather-app-react/
+WeatherNow/
 ├── public/
 ├── src/
 │   ├── components/
