@@ -1,7 +1,5 @@
 # Weather App React
 
-![Weather App Banner](https://via.placeholder.com/800x400?text=Weather+App+React)
-
 A modern, responsive weather application built with React and Vite. Get real-time weather information for any city around the world with a clean and intuitive user interface.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
